@@ -95,12 +95,11 @@ O Front-end segue os requisitos tecnológicos definidos para o projeto.
 
 ### Principais tecnologias
 
-* Angular 18+
-* TypeScript
-* Angular Material
-* PWA
+* Angular 
+* JavaScript
 * HTML5
 * CSS
+* PWA
 * Integração com API REST
 
 A aplicação será responsável pela comunicação com o backend por meio de APIs, permitindo o envio, consulta e atualização das informações do sistema.
